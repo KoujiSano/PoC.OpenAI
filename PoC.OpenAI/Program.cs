@@ -2,7 +2,7 @@
 using OpenAI_API;
 
 Uri endpoint = new Uri("https://api.openai.com/v1/embeddings");
-const string key = "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";
+const string key = "";
 
 OpenAIAPI api = new OpenAIAPI(key);
 
