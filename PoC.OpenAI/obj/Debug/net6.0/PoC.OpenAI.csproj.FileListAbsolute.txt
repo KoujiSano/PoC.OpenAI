@@ -18,14 +18,3 @@ C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\obj\Debug
 C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\obj\Debug\net6.0\PoC.OpenAI.pdb
 C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\obj\Debug\net6.0\PoC.OpenAI.genruntimeconfig.cache
 C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\obj\Debug\net6.0\ref\PoC.OpenAI.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\sano\OneDrive\ドキュメント\GitHub\PoC.OpenAI\PoC.OpenAI\bin\Debug\net6.0\OpenAI_API.dll
