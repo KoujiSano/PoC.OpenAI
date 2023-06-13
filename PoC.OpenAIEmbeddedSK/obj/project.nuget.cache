@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "50twO80IKR8s9XKN+jGL65ggr4PjAFCMkMoYb36EFQompUYs7FBjhpbaOxkGhadAaYi5hY5v1xkT4Js0KDuy2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sano\\OneDrive\\ドキュメント\\GitHub\\PoC.OpenAI\\PoC.OpenAIEmbeddedSK\\PoC.OpenAIEmbeddedSK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sano\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.5\\azure.ai.openai.1.0.0-beta.5.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\azure.core\\1.30.0\\azure.core.1.30.0.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\microsoft.semantickernel\\0.15.230609.2-preview\\microsoft.semantickernel.0.15.230609.2-preview.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\microsoft.semantickernel.abstractions\\0.15.230609.2-preview\\microsoft.semantickernel.abstractions.0.15.230609.2-preview.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\microsoft.semantickernel.connectors.ai.openai\\0.15.230609.2-preview\\microsoft.semantickernel.connectors.ai.openai.0.15.230609.2-preview.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\microsoft.semantickernel.core\\0.15.230609.2-preview\\microsoft.semantickernel.core.0.15.230609.2-preview.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\microsoft.semantickernel.planning.actionplanner\\0.15.230609.2-preview\\microsoft.semantickernel.planning.actionplanner.0.15.230609.2-preview.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\microsoft.semantickernel.planning.sequentialplanner\\0.15.230609.2-preview\\microsoft.semantickernel.planning.sequentialplanner.0.15.230609.2-preview.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\sano\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
